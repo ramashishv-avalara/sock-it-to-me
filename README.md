@@ -1,6 +1,7 @@
 # Sock It To Me
 
 Who wants socks at TrailheaDX 2018?
+Ramashish.v@avalara.com
 
 Just submit a pull request :smile:
 1. Open [Readme.md](https://github.com/salesforce/sock-it-to-me/edit/master/README.md) at https://goo.gl/XYXKQ1
